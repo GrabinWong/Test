@@ -1,0 +1,57 @@
+{
+
+  "availability": {
+
+    "application": {
+
+      "anonymousUser": 100,
+
+      "rememberedUser": 100
+
+    },
+
+    "featureToggles": {
+
+      "mobilechat": 100,
+
+      "inAppMessages": 0,
+
+      "messaging": 0,
+
+      "virtualCardDetails": 100
+
+    },
+
+    "services": {
+
+      "accounts": 100,
+
+      "estatements": 100,
+
+      "pega": 100
+
+    }
+
+  },
+
+  "buildNumbers": {
+
+    "android": {
+
+      "minimumSupported": "6",
+
+      "minimumSupportedVersion": "2.17.0"
+
+    },
+
+    "ios": {
+
+      "minimumSupported": "6",
+
+      "minimumSupportedVersion": "2.35.0"
+
+    }
+
+  }
+
+}
